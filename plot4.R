@@ -18,7 +18,7 @@
 # Start main program
 
 # Set working directory
-setwd("D:\\Liang\\Workspace\\DataScience\\C4\\W1")
+setwd("~")
 # Download data for internet and load it into elec_power_consumption variable
 if ( !file.exists("household_power_consumption.txt"))
 {
